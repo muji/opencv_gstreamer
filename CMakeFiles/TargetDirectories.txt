@@ -1,0 +1,3 @@
+/home/pi/Desktop/udp/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/udp/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/udp/CMakeFiles/opencv_sender.dir
